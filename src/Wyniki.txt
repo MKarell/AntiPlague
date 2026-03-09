@@ -1,0 +1,8 @@
+Dzien: 56 | Nick: Mati | Wynik: 34634564
+Dzien: 13 | Nick: mateusz |Wynik: 0.0
+Dzien: 7 | Nick: asdgfa |Wynik: 0.0
+Dzien: 19 | Nick: hjr |Wynik: 0.0
+Dzien: 2 | Nick:  |Wynik: 0.0
+Dzien: 10 | Nick: a |Wynik: 0.0
+Dzien: 1 | Nick: jfjhgf |Wynik: 0.0
+Dzien: 544 | Nick: mateusz1 |Wynik: 8.354368236094451E7
